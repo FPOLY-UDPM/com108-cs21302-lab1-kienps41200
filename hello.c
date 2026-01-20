@@ -1,6 +1,6 @@
 /******************************************************************************
- * Họ và tên: [ĐIỀN TÊN TẠI ĐÂY]
- * MSSV:      [ĐIỀN MSSV TẠI ĐÂY]
+ * Họ và tên: [Nguyen Ngoc Trung Kien]
+     [PS41200]
  * Lớp:       [ĐIỀN LỚP TẠI ĐÂY]
  *****************************************************************************/
 
@@ -13,10 +13,10 @@
 
 #include <stdio.h>
 
-void main() {
+int main() {
 
     printf("Hello, FPT Polytechnic!\n");
 
-    printf("Chào mừng Bạn đến với Nhập môn lập trình - COM108!\n");
+    printf("Chào thay em ten kien - COM108!\n");
 
 }
