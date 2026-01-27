@@ -10,13 +10,10 @@
 // 3. Cài đặt Compiler GCC, theo hướng dẫn
 //      https://github.com/TUANTA71/2026-SP-COM108
 // 4. Tạo chương trình C đầu tiên
-
 #include <stdio.h>
 
 int main() {
-
-    printf("Hello, FPT Polytechnic!\n");
-
-    printf("Chào thay em ten kien - COM108!\n");
-
+    printf("Hello thầy, em tên Kiên\n");
+    return 0;
 }
+
