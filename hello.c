@@ -1,6 +1,6 @@
 /******************************************************************************
- * Họ và tên: [ĐIỀN TÊN TẠI ĐÂY]
- * MSSV:      [ĐIỀN MSSV TẠI ĐÂY]
+ * Họ và tên: [Nguyen Ngoc Trung Kien]
+     [PS41200]
  * Lớp:       [ĐIỀN LỚP TẠI ĐÂY]
  *****************************************************************************/
 
@@ -10,13 +10,10 @@
 // 3. Cài đặt Compiler GCC, theo hướng dẫn
 //      https://github.com/TUANTA71/2026-SP-COM108
 // 4. Tạo chương trình C đầu tiên
-
 #include <stdio.h>
 
-void main() {
-
-    printf("Hello, FPT Polytechnic!\n");
-
-    printf("Chào mừng Bạn đến với Nhập môn lập trình - COM108!\n");
-
+int main() {
+    printf("Hello thầy, em tên Kiên\n");
+    return 0;
 }
+
